@@ -12,3 +12,7 @@ img {
     height: auto;
     width: auto\9; /* ie8 */
 }
+
+#textArea {
+    height: 200px;
+}
